@@ -89,10 +89,6 @@ public class MainProgram {
 
     }
 
-    public void human(){
-
-
-    }
 
 
 }
